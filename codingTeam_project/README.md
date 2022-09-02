@@ -71,7 +71,7 @@
   
 # Установка
 
-*%git clone*
+*%git clone https://github.com/SeniorRolan/codingTeam.git*
 
 *%cd codingTeam*
 

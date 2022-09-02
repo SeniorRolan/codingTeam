@@ -1,7 +1,4 @@
-from django.shortcuts import render
-from django.http import HttpResponse, JsonResponse
-
-# Create your views here.
+from django.http import JsonResponse
 from .serializers import FoodListSerializer
 from .models import Food, FoodCategory
 
